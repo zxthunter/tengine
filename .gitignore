@@ -1,4 +1,6 @@
 Makefile
 objs/
 tags
-.DS_Store/
+.DS_Store
+.vscode/
+
